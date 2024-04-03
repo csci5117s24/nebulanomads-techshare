@@ -264,3 +264,10 @@ At the bottom of the return just above the last /div add:
 ```
 <Gallery images={imageList} />
 ```
+
+In conclusion, Buckets are a fast, scalable, and reliable way to store and serve your content. Their SDK might be a bit heavy, but the learning curve is well worth it. Here are some more resources you might want to check out.
+
+* [Common use cases](https://docs.aws.amazon.com/AmazonS3/latest/userguide/getting-started-next-steps.html#s3-use-cases)
+* [Use buckets with AWS Cloudfront](https://aws.amazon.com/cloudfront/)
+* [AWS Javascript SDK Reference](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/)
+* [AWS Next Steps](https://docs.aws.amazon.com/AmazonS3/latest/userguide/getting-started-next-steps.html#s3-use-cases)
